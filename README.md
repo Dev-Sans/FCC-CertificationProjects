@@ -1,6 +1,7 @@
 # FCC-CertificationProjects
 #### _The projects published in this repository were created as part of the Python Certification Coursework offered by freeCodeCamp._  
 
+I intend to use this repository to publicly document  my learning journey through the coursework provided by FCC.
 
 ## 1. User Configuration Manager  
 A simple Python project that manages user settings using dictionaries.  
